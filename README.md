@@ -36,7 +36,6 @@ To create these functions you receive a transaction as input (see the class desc
 #### Customer
 A customer only has a handful of cash on them in their wallet but can go to the bank to deposit or withdraw money at various times.
 
-
 -  **Instance Variables**
     -  accountName :string
     -  total :number

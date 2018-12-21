@@ -74,12 +74,12 @@ class Credit extends class Card{
                 code: this.pinn
             }
         }
-    }
-    
+    };
+
     intrest(){
         if(this.balance < 0{
             this.over = this.over * this.intrest+1;
         }
         return this.over;
-    }
-};
+    };
+}
